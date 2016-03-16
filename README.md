@@ -1,2 +1,2 @@
 # AES-Dynamic-Encryption
-This sample demonstrates how you could apply AES clear key dynamic encryption onto your asset and stream through Azure Media Services
+This sample was moved to [this](https://github.com/Azure-Samples/media-services-dotnet-dynamic-encryption-with-aes) location.
